@@ -1,0 +1,6002 @@
+[
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    },
+    {
+        "japanese": "こんにちは",
+        "pronunciation": "곤니치와",
+        "meaning": "안녕하세요",
+        "checked": false
+    },
+    {
+        "japanese": "ありがとうございます",
+        "pronunciation": "아리가토우 고자이마스",
+        "meaning": "감사합니다",
+        "checked": false
+    },
+    {
+        "japanese": "すみません",
+        "pronunciation": "스미마센",
+        "meaning": "죄송합니다 / 실례합니다",
+        "checked": false
+    },
+    {
+        "japanese": "おはようございます",
+        "pronunciation": "오하요우 고자이마스",
+        "meaning": "좋은 아침입니다",
+        "checked": false
+    },
+    {
+        "japanese": "さようなら",
+        "pronunciation": "사요우나라",
+        "meaning": "안녕히 가세요",
+        "checked": false
+    }
+]
