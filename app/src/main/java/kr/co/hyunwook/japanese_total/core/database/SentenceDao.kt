@@ -10,5 +10,7 @@ interface SentenceDao {
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun insertSentences(sentences: List<Sentence>)
+
+
 }
 

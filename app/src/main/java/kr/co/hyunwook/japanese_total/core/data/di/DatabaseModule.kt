@@ -7,6 +7,7 @@ import dagger.hilt.components.SingletonComponent
 import kr.co.hyunwook.japanese_total.core.database.AppDatabase
 import kr.co.hyunwook.japanese_total.core.database.SentenceDao
 import android.app.Application
+import android.content.Context
 import javax.inject.Singleton
 import androidx.room.Room
 
@@ -28,6 +29,13 @@ internal object DatabaseModule {
     @Singleton
     fun provideSentenceDao(appDatabase: AppDatabase): SentenceDao {
         return appDatabase.sentenceDao()
+    }
+
+
+    @Provides
+    @Singleton
+    fun provideContext(application: Application): Context {
+        return application
     }
 }
 
