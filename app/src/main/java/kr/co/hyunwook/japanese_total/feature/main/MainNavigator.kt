@@ -1,6 +1,7 @@
 package kr.co.hyunwook.japanese_total.feature.main
 
 import kr.co.hyunwook.japanese_total.core.navigation.Route
+import kr.co.hyunwook.japanese_total.feature.home.navigation.Home
 import kr.co.hyunwook.japanese_total.feature.main.onboarding.navigation.OnBoarding
 import kr.co.hyunwook.japanese_total.feature.main.splash.navigation.Splash
 import androidx.compose.runtime.Composable
@@ -24,6 +25,12 @@ class MainNavigator(
         navOptions: NavOptions
     ) {
         navController.navigate(OnBoarding, navOptions = navOptions)
+    }
+
+    fun navigateToHome(
+        navOptions: NavOptions
+    ) {
+        navController.navigate(Home, navOptions = navOptions)
     }
 
 }

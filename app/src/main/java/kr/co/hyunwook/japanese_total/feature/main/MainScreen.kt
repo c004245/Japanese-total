@@ -1,6 +1,8 @@
 package kr.co.hyunwook.japanese_total.feature.main
 
 import kr.co.hyunwook.japanese_total.core.navigation.Route
+import kr.co.hyunwook.japanese_total.feature.home.navigation.Home
+import kr.co.hyunwook.japanese_total.feature.home.navigation.homeNavGraph
 import kr.co.hyunwook.japanese_total.feature.main.onboarding.navigation.OnBoarding
 import kr.co.hyunwook.japanese_total.feature.main.onboarding.navigation.onboardingNavGraph
 import kr.co.hyunwook.japanese_total.feature.main.splash.navigation.splashNavGraph
@@ -48,9 +50,11 @@ internal fun MainScreen(
                     )
                     onboardingNavGraph(
                         navigateToHome = {
-
+                            navigate(navigator, Home)
                         }
-
+                    )
+                    homeNavGraph(
+                        paddingValues = paddingValues
                     )
                 }
             }
@@ -70,6 +74,9 @@ fun navigate(navigator: MainNavigator, route: Route) {
     when (route) {
         OnBoarding -> {
             navigator.navigateToOnBoarding(navOptions = navOptions)
+        }
+        Home -> {
+            navigator.navigateToHome(navOptions = navOptions)
         }
     }
 }
