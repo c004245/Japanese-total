@@ -12,7 +12,7 @@ class SentenceRepositoryImpl @Inject constructor(
         sentenceDao.insertSentences(sentences)
     }
 
-    override suspend fun getUnCheckedRandomSentence(): Flow<Sentence> {
+    override suspend fun getUnCheckedRandomSentence(): Sentence {
        return sentenceDao.getUnCheckedRandomSentence()
     }
 
