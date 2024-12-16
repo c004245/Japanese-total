@@ -2,6 +2,7 @@ package kr.co.hyunwook.japanese_total.feature.main.onboarding
 
 import kr.co.hyunwook.japanese_total.R
 import kr.co.hyunwook.japanese_total.ui.theme.JapaneseTotalTheme
+import kr.co.hyunwook.japanese_total.util.scheduleDailyNotification
 import android.widget.Toast
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.PaddingValues
@@ -34,6 +35,7 @@ fun OnBoardingScreen(
     LaunchedEffect(Unit) {
         onBoardingViewModel.saveDoneSentences.collect { isSuccess ->
             if (isSuccess) {
+                scheduleDailyNotification(context)
                 Toast.makeText(context, "난이도에 맞는 단어 저장완료!", Toast.LENGTH_LONG).show()
                 navigateToHome()
             }

@@ -15,7 +15,7 @@ interface SentenceDao {
 
 
     //아직 보지 않은 일본어 문장 한개 랜덤 추출
-    @Query("SELECT * FROM sentence WHERE checked = 0 ORDER BY RANDUM() LIMIT 1")
+    @Query("SELECT * FROM sentence WHERE checked = 0 ORDER BY RANDOM() LIMIT 1")
     suspend fun getUnCheckedRandomSentence(): Sentence
 
     //확인 한 일본어 문장을 본 상태로 바꾸기
