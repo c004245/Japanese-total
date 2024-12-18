@@ -1,11 +1,11 @@
 package kr.co.hyunwook.japanese_total
 
 import dagger.hilt.android.HiltAndroidApp
-import kr.co.hyunwook.japanese_total.util.scheduleDailyNotification
 import android.app.Application
 import javax.inject.Inject
 import androidx.hilt.work.HiltWorkerFactory
 import androidx.work.Configuration
+import androidx.work.WorkManager
 
 @HiltAndroidApp
 class App: Application(), Configuration.Provider {

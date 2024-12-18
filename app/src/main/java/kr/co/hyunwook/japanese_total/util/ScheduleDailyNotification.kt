@@ -1,6 +1,7 @@
 package kr.co.hyunwook.japanese_total.util
 
 import android.content.Context
+import android.util.Log
 import java.util.Calendar
 import java.util.concurrent.TimeUnit
 import androidx.work.OneTimeWorkRequestBuilder
@@ -20,14 +21,9 @@ fun scheduleDailyNotification(context: Context) {
 
     val initialDelay = targetTime.timeInMillis - now.timeInMillis
 
-//    val workRequest = OneTimeWorkRequestBuilder<SentenceNotificationWorker>()
-//        .setInitialDelay(initialDelay, TimeUnit.MILLISECONDS)
-//        .build()
-
-//    WorkManager.getInstance(context).enqueue(workRequest)
 
     val workRequest = OneTimeWorkRequestBuilder<SentenceNotificationWorker>().build()
-    WorkManager.getInstance(context).enqueue(workRequest)
+    WorkManager.getInstance(context.applicationContext).enqueue(workRequest)
 
 
 }

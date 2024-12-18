@@ -12,13 +12,13 @@ import androidx.work.WorkerParameters
 class SentenceNotificationWorker @AssistedInject constructor(
     @Assisted context: Context,
     @Assisted workerParams: WorkerParameters,
-    private val getRandomSentenceUseCase: GetRandomSentenceUseCase
+//    private val getRandomSentenceUseCase: GetRandomSentenceUseCase
 ) : CoroutineWorker(context, workerParams) {
     override suspend fun doWork(): Result {
         return try {
-            val sentence = getRandomSentenceUseCase()
+//            val sentence = getRandomSentenceUseCase()
             val notificationHelper = NotificationHelper(applicationContext)
-            notificationHelper.sendNotification(sentence.japanese)
+            notificationHelper.sendNotification("ㅁㄴㅇㄹㅁㄴㅇㄹ")
             Result.success()
         } catch (e: Exception) {
             Result.failure()

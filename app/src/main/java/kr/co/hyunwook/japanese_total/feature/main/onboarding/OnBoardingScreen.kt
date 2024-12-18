@@ -30,12 +30,11 @@ fun OnBoardingScreen(
     onBoardingViewModel: OnBoardingViewModel = hiltViewModel()
 ) {
 
-    val context = LocalContext.current
+    val context = LocalContext.current.applicationContext
 
     LaunchedEffect(Unit) {
         onBoardingViewModel.saveDoneSentences.collect { isSuccess ->
             if (isSuccess) {
-                scheduleDailyNotification(context)
                 Toast.makeText(context, "난이도에 맞는 단어 저장완료!", Toast.LENGTH_LONG).show()
                 navigateToHome()
             }
