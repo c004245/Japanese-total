@@ -24,11 +24,10 @@ class OnBoardingViewModel @Inject constructor(
     val saveDoneSentences: SharedFlow<Boolean> get() = _saveDoneSentences
 
     //json to room
-    fun saveSentences(jsonResId: Int) {
+    fun saveSentences(jsonResId: Int, levelType: LevelType) {
         viewModelScope.launch {
             saveSentenceUseCase(jsonResId = jsonResId)
                 .catch {
-
                     _saveDoneSentences.emit(false)
                 }
                 .collect { result ->

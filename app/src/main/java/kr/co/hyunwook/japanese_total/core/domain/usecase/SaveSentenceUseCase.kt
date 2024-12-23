@@ -25,11 +25,8 @@ class SaveSentenceUseCase @Inject constructor(
             val reader = InputStreamReader(inputStream)
             val type = object : TypeToken<List<Sentence>>() {}.type
             val sentences: List<Sentence> = Gson().fromJson(reader, type)
-
             Log.d("HWO", "sentence usecase -> $sentences")
-
             sentenceRepository.saveSentences(sentences)
-
             emit(Result.success(Unit))
         } catch (e: Exception) {
             emit(Result.failure(e))

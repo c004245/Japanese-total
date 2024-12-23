@@ -83,5 +83,7 @@ dependencies {
     kapt(libs.androidx.room.compiler)
     implementation(libs.gson)
 
+    implementation(libs.androidx.datastore)
+
 
 }

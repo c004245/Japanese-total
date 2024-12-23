@@ -19,6 +19,8 @@ gson = "2.8.9"
 
 workmanager = "2.8.1"
 hilt-work = "1.2.0"
+androidxDatastore = "1.1.1"
+
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -53,6 +55,8 @@ androidx-room-ktx = { module = "androidx.room:room-ktx", version.ref = "androidx
 androidx-room-compiler = { module = "androidx.room:room-compiler", version.ref = "androidxRoom" }
 
 gson = { group = "com.google.code.gson", name = "gson", version.ref = "gson" }
+
+androidx-datastore = { group = "androidx.datastore", name = "datastore-preferences", version.ref = "androidxDatastore" }
 
 
 [plugins]
