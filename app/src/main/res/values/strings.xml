@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">japanese-total</string>
     <string name="text_next">다음</string>
+    <string name="text_level_basic">기초</string>
+    <string name="text_level_common">중급</string>
+    <string name="text_level_advance">고급</string>
 
 </resources>
