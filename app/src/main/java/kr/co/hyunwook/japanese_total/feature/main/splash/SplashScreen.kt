@@ -19,6 +19,7 @@ import androidx.lifecycle.flowWithLifecycle
 @Composable
 fun SplashScreen(
    navigateToOnBoarding: () -> Unit = {},
+   navigateToHome: () -> Unit = {},
    viewModel: SplashViewModel = hiltViewModel()
 ) {
 
@@ -33,6 +34,7 @@ fun SplashScreen(
             .collect { sideEffect ->
                 when (sideEffect) {
                     is SplashSideEffect.NavigateToOnBoarding -> navigateToOnBoarding()
+                    is SplashSideEffect.NavigateToHome -> navigateToHome()
                 }
 
         }

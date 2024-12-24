@@ -44,7 +44,9 @@ internal fun MainScreen(
                     splashNavGraph(
                         navigateToOnBoarding = {
                             navigate(navigator, OnBoarding)
-
+                        },
+                        navigateToHome = {
+                            navigate(navigator, Home)
                         }
 
                     )

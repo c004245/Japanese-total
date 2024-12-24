@@ -26,4 +26,6 @@ class SentenceRepositoryImpl @Inject constructor(
     override suspend fun saveLevel(levelType: LevelType) {
         sentencesDataSource.saveLevel(levelType)
     }
+
+    override suspend fun getLevel(): Flow<LevelType> = sentencesDataSource.currentLevel
 }

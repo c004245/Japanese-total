@@ -7,11 +7,13 @@ import androidx.navigation.NavGraphBuilder
 import androidx.navigation.compose.composable
 
 fun NavGraphBuilder.splashNavGraph(
-    navigateToOnBoarding: () -> Unit
+    navigateToOnBoarding: () -> Unit,
+    navigateToHome: () -> Unit
 ) {
     composable<Splash> {
         SplashScreen(
-            navigateToOnBoarding = navigateToOnBoarding
+            navigateToOnBoarding = navigateToOnBoarding,
+            navigateToHome = navigateToHome
         )
     }
 }

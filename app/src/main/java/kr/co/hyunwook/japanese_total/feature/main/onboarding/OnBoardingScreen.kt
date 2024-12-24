@@ -66,13 +66,13 @@ fun OnBoardingScreen(
             onClick = {
                 when (currentLevel) {
                     LevelType.BASIC -> {
-                        onBoardingViewModel.saveSentences(R.raw.japanese_sentences_basic, currentLevel)
+                        onBoardingViewModel.saveSentenceLevel(R.raw.japanese_sentences_basic, currentLevel)
                     }
                     LevelType.COMMON -> {
-                        onBoardingViewModel.saveSentences(R.raw.japanese_sentences_basic, currentLevel)
+                        onBoardingViewModel.saveSentenceLevel(R.raw.japanese_sentences_basic, currentLevel)
                     }
                     LevelType.ADVANCE -> {
-                        onBoardingViewModel.saveSentences(R.raw.japanese_sentences_basic, currentLevel)
+                        onBoardingViewModel.saveSentenceLevel(R.raw.japanese_sentences_basic, currentLevel)
                     } else -> {
 
                     }
