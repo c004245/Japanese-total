@@ -31,7 +31,7 @@ class OnBoardingViewModel @Inject constructor(
                 }
                 .collect { result ->
                     result.onSuccess {
-                        scheduleDailyNotification(context)
+//                        scheduleDailyNotification(context)
                         _saveDoneSentences.emit(true)
                     }.onFailure { e ->
                         _saveDoneSentences.emit(false)

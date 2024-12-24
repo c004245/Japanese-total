@@ -23,7 +23,7 @@ fun scheduleDailyNotification(context: Context) {
 
 
     val workRequest = OneTimeWorkRequestBuilder<SentenceNotificationWorker>().build()
-    WorkManager.getInstance(context.applicationContext).enqueue(workRequest)
+    WorkManager.getInstance(context).enqueue(workRequest)
 
 
 }
