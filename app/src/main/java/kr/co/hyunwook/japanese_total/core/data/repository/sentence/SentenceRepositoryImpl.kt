@@ -15,12 +15,12 @@ class SentenceRepositoryImpl @Inject constructor(
         sentenceDao.insertSentences(sentences)
     }
 
-    override suspend fun getUnCheckedRandomSentence(): Sentence {
-       return sentenceDao.getUnCheckedRandomSentence()
+    override suspend fun getUnCheckedRandomSentences(): List<Sentence> {
+       return sentenceDao.getUnCheckedRandomSentences()
     }
 
-    override suspend fun updateCheckSentence(id: Int) {
-        sentenceDao.updateCheckSentence(id)
+    override suspend fun updateCheckSentences(ids: List<Int>) {
+        sentenceDao.updateCheckSentence(ids)
     }
 
     override suspend fun saveLevel(levelType: LevelType) {

@@ -11,11 +11,12 @@ class GetRandomSentenceUseCase @Inject constructor(
     private val sentenceRepository: SentenceRepository
 ) {
 
-    suspend operator fun invoke(): Sentence {
-        val sentence = sentenceRepository.getUnCheckedRandomSentence()
-        sentence?.let {
-            sentenceRepository.updateCheckSentence(it.id)
+    suspend operator fun invoke(): List<Sentence> {
+        val sentences = sentenceRepository.getUnCheckedRandomSentences()
+        sentences.let {
+            val ids = it.map { sentence -> sentence.id }
+            sentenceRepository.updateCheckSentences(ids)
         }
-        return sentence
+        return sentences
     }
 }

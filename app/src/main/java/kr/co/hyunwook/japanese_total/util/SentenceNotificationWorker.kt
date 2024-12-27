@@ -2,7 +2,6 @@ package kr.co.hyunwook.japanese_total.util
 
 import dagger.assisted.Assisted
 import dagger.assisted.AssistedInject
-import kr.co.hyunwook.japanese_total.core.domain.usecase.GetRandomSentenceUseCase
 import android.content.Context
 import androidx.hilt.work.HiltWorker
 import androidx.work.CoroutineWorker
@@ -18,7 +17,8 @@ class SentenceNotificationWorker @AssistedInject constructor(
         return try {
 //            val sentence = getRandomSentenceUseCase()
             val notificationHelper = NotificationHelper(applicationContext)
-            notificationHelper.sendNotification("ㅁㄴㅇㄹㅁㄴㅇㄹ")
+
+            notificationHelper.sendNotification("Japanese")
             Result.success()
         } catch (e: Exception) {
             Result.failure()
